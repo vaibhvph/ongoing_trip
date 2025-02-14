@@ -6,11 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-fastapi = "*"
-uvicorn = "*"
-pandas = "*"
-python-dotenv = "*"
-duckdb = "*"
+fastapi = "0.109.2"
+uvicorn = "0.27.1"
+pandas = "2.2.0"
+python-dotenv = "1.0.1"
+duckdb = "0.9.2"
 
 [requires]
 python_version = "3.9"
